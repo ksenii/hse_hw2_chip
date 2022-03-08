@@ -18,7 +18,34 @@
 
 
 ### Анализ выдачи fastqc:
-![alt text](screenshots/filename.png "Описание будет тут")
+![alt text](fastqc_pic/Fastqc_VJD.png)
+#### Анализ ENCFF000VJD:
+В отчетё имеется следующие предупреждения:
+1) Per tile sequence quality
+2) Per base sequence content
+3) Per sequence GC content
 
+Перечисленные предупреждения не являются критичными, следовательно с данным файлом ничего дополнительно делать не надо.
+________________
+
+![alt text](fastqc_pic/Fastqc_VJH.png)
+#### Анализ ENCFF000VJH:
+В отчетё имеется следующие предупреждения:
+1) Per base sequence content
+2) Per sequence GC content
+
+В В отчетё имеется следующие ошибки:
+1) Per tile sequence quality
+
+Несмотря на последнюю ошибку, главным проверочным параметром является Per base sequence quality, значения которого являются хорошими и следовательно можно не менять данный файл.
+________________
+
+![alt text](fastqc_pic/Fastqc_VJK.png)
+#### Анализ ENCFF000VJK:
+
+В отчетё имеется следующие предупреждения:
+1) Per sequence GC content
+
+Документ не требует изменения.
 
 ## Бонусная часть
