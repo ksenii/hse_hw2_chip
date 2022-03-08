@@ -18,7 +18,7 @@
 
 
 ### Анализ выдачи fastqc:
-
+![alt text](screenshots/filename.png "Описание будет тут")
 
 
 ## Бонусная часть
