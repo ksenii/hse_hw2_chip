@@ -52,6 +52,7 @@ ________________
 
 ### Анализ выдачи bowtie
 ![alt text](table.png)
+![alt text](tablepr.png)
 
 ### Диаграммы Венна 
 
